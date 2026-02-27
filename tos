@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Termos de Uso - [NOME_DA_EMPRESA]</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      color: #222;
+      background-color: #f9f9f9;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    h1 {
+      margin-bottom: 0.5em;
+    }
+    h2 {
+      margin-top: 1.5em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3em;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 1.2em;
+    }
+    small {
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Termos de Uso</h1>
+  <p><small>Última atualização: [DATA_DA_ATUALIZACAO]</small></p>
+
+  <p>
+    Bem-vindo ao site <strong>[NOME_DA_EMPRESA]</strong> (“nós”, “nosso” ou “nos”).
+    Estes Termos de Uso (“Termos”) regulam o acesso e o uso do site
+    <a href="[URL_DO_SITE]">[URL_DO_SITE]</a> e de seus serviços associados
+    (coletivamente, o “Serviço”).
+  </p>
+
+  <p>
+    Ao acessar ou utilizar o Serviço, você (“Usuário”) concorda com estes Termos.
+    Se você não concordar com qualquer parte destes Termos, não deverá utilizar o Serviço.
+  </p>
+
+  <h2>1. Aceitação dos Termos</h2>
+  <p>
+    Ao navegar, registrar-se, acessar ou utilizar qualquer funcionalidade do Serviço,
+    você declara ter lido, compreendido e aceito estes Termos, bem como nossa
+    <a href="[URL_POLITICA_PRIVACIDADE]">Política de Privacidade</a>.
+  </p>
+
+  <h2>2. Elegibilidade</h2>
+  <p>
+    O Serviço é destinado a pessoas com pelo menos 18 (dezoito) anos de idade,
+    ou que sejam legalmente capazes de assumir obrigações contratuais de acordo
+    com a legislação aplicável. Ao utilizar o Serviço, você declara atender a
+    esses requisitos.
+  </p>
+
+  <h2>3. Cadastro e Conta</h2>
+  <p>
+    Alguns recursos do Serviço podem exigir a criação de uma conta. Ao criar uma
+    conta, você se compromete a:
+  </p>
+  <ul>
+    <li>Fornecer informações verdadeiras, completas e atualizadas;</li>
+    <li>Manter a confidencialidade de suas credenciais de acesso;</li>
+    <li>Notificar imediatamente <strong>[NOME_DA_EMPRESA]</strong> sobre qualquer uso
+      não autorizado de sua conta;</li>
+    <li>Ser o único responsável por todas as atividades realizadas por meio de sua conta.</li>
+  </ul>
+
+  <h2>4. Uso Autorizado do Serviço</h2>
+  <p>
+    Você concorda em utilizar o Serviço em conformidade com a legislação vigente e
+    com estes Termos, abstendo-se de:
+  </p>
+  <ul>
+    <li>Praticar qualquer ato que possa comprometer a segurança ou o funcionamento do Serviço;</li>
+    <li>Utilizar o Serviço para fins ilícitos, fraudulentos ou que violem direitos de terceiros;</li>
+    <li>Reproduzir, duplicar, copiar, vender, revender ou explorar qualquer parte do Serviço sem autorização prévia por escrito;</li>
+    <li>Enviar conteúdos ofensivos, discriminatórios, difamatórios, obscenos ou que violem direitos de propriedade intelectual.</li>
+  </ul>
+
+  <h2>5. Conteúdos e Propriedade Intelectual</h2>
+  <p>
+    Todos os textos, imagens, logotipos, gráficos, ícones, softwares, códigos e demais
+    conteúdos exibidos no Serviço (“Conteúdo”) são de propriedade de
+    <strong>[NOME_DA_EMPRESA]</strong> ou de seus licenciantes, sendo protegidos por
+    leis de direitos autorais, marcas e demais normas aplicáveis.
+  </p>
+  <p>
+    É proibido utilizar, reproduzir, distribuir, modificar ou criar obras derivadas
+    do Conteúdo sem autorização prévia e por escrito de
+    <strong>[NOME_DA_EMPRESA]</strong> ou do titular dos direitos.
+  </p>
+
+  <h2>6. Conteúdo do Usuário</h2>
+  <p>
+    Caso o Serviço permita que você envie, poste ou compartilhe conteúdos (como
+    comentários, avaliações, imagens, etc.), você declara e garante que:
+  </p>
+  <ul>
+    <li>Possui todos os direitos necessários sobre tais conteúdos;</li>
+    <li>Os conteúdos não violam direitos de terceiros nem a legislação aplicável;</li>
+    <li>Você concede a <strong>[NOME_DA_EMPRESA]</strong> uma licença não exclusiva,
+      mundial, gratuita e sublicenciável para usar, reproduzir, modificar, adaptar,
+      publicar, traduzir, distribuir e exibir tais conteúdos em conexão com o Serviço.
+    </li>
+  </ul>
+
+  <h2>7. Serviços de Terceiros e Links Externos</h2>
+  <p>
+    O Serviço pode conter links para sites, aplicativos ou serviços de terceiros.
+    Esses terceiros possuem termos e políticas próprias, sobre as quais
+    <strong>[NOME_DA_EMPRESA]</strong> não possui controle nem se responsabiliza.
+    O uso de serviços de terceiros é de sua exclusiva responsabilidade.
+  </p>
+
+  <h2>8. Limitação de Responsabilidade</h2>
+  <p>
+    Na medida máxima permitida pela legislação aplicável, 
+    <strong>[NOME_DA_EMPRESA]</strong> não se responsabiliza por danos diretos,
+    indiretos, incidentais, especiais ou consequenciais decorrentes de:
+  </p>
+  <ul>
+    <li>Uso ou impossibilidade de uso do Serviço;</li>
+    <li>Falhas, erros, interrupções, indisponibilidade ou atrasos no Serviço;</li>
+    <li>Acesso não autorizado ou alteração de suas transmissões ou dados;</li>
+    <li>Conteúdos ou condutas de terceiros relacionados ao uso do Serviço.</li>
+  </ul>
+
+  <h2>9. Garantias</h2>
+  <p>
+    O Serviço é fornecido “no estado em que se encontra” (“as is”) e “conforme
+    disponível”, sem garantias de qualquer tipo, expressas ou implícitas, incluindo,
+    mas não se limitando, a garantias de adequação a uma finalidade específica,
+    disponibilidade contínua, segurança ou ausência de erros.
+  </p>
+
+  <h2>10. Suspensão e Encerramento</h2>
+  <p>
+    <strong>[NOME_DA_EMPRESA]</strong> reserva-se o direito de, a qualquer momento,
+    sem aviso prévio e sem que isso gere qualquer direito de indenização:
+  </p>
+  <ul>
+    <li>Suspender ou encerrar o acesso ao Serviço, total ou parcialmente;</li>
+    <li>Excluir ou desativar contas de Usuários que violem estes Termos ou a legislação;</li>
+    <li>Modificar ou descontinuar o Serviço, temporária ou definitivamente.</li>
+  </ul>
+
+  <h2>11. Alterações destes Termos</h2>
+  <p>
+    Podemos atualizar estes Termos periodicamente. Quando isso ocorrer, publicaremos
+    a nova versão em <a href="[URL_DO_SITE]">[URL_DO_SITE]</a> com a indicação da
+    data de última atualização. O uso contínuo do Serviço após a publicação das
+    alterações significa que você aceita os Termos atualizados.
+  </p>
+
+  <h2>12. Privacidade e Dados Pessoais</h2>
+  <p>
+    O tratamento dos seus dados pessoais é regulado por nossa
+    <a href="[URL_POLITICA_PRIVACIDADE]">Política de Privacidade</a>, que faz parte
+    integrante destes Termos. Recomendamos que você leia atentamente esse documento.
+  </p>
+
+  <h2>13. Legislação Aplicável e Foro</h2>
+  <p>
+    Estes Termos serão regidos e interpretados de acordo com as leis da
+    <strong>[PAÍS/ESTADO]</strong>. Fica eleito o foro da comarca de
+    <strong>[CIDADE/ESTADO]</strong>, com exclusão de qualquer outro, por mais
+    privilegiado que seja, para dirimir quaisquer dúvidas ou controvérsias
+    decorrentes destes Termos.
+  </p>
+
+  <h2>14. Contato</h2>
+  <p>
+    Em caso de dúvidas, sugestões ou solicitações relacionadas a estes Termos,
+    entre em contato conosco pelos canais abaixo:
+  </p>
+  <ul>
+    <li>E-mail: <a href="mailto:[EMAIL_DE_CONTATO]">[EMAIL_DE_CONTATO]</a></li>
+    <li>Site: <a href="[URL_DO_SITE]">[URL_DO_SITE]</a></li>
+    <li>Endereço: [ENDERECO_COMPLETO_DA_EMPRESA]</li>
+  </ul>
+
+  <p>
+    Ao utilizar o Serviço, você declara estar ciente e de acordo com todas as
+    disposições destes Termos de Uso.
+  </p>
+
+</body>
+</html>
